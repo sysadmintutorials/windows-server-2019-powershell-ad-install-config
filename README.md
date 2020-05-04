@@ -9,7 +9,7 @@
 
 The 3 scripts contained within this repository will help you automate the install and configuration of a Windows Server 2019 Active Directory Domain Controller
 
-A full video tutorial has been created explaining step-by-step how to use these scripts. The video can be found on Youtube at the following link:
+A full video tutorial has been created explaining step-by-step how to use these scripts. The video can be found on my Youtube channel: https://youtu.be/0tONNzREopw
 
 ## File Listing & Description
 1. 1-Basic-Server-Config (Setup hostname, enable RDP and disable IE Enhanced Security for Administrator and User)
